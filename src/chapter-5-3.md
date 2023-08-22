@@ -1,5 +1,4 @@
-Transparency and Accountability in AI Advertising
-==================================================================================================================
+
 
 The use of Artificial Intelligence (AI) in advertising has enabled advertisers to create more personalized, efficient, and effective ad campaigns. However, the use of AI also raises a number of ethical and social implications that must be taken into account, particularly around issues of transparency, accountability, and privacy.
 

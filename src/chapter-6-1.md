@@ -1,5 +1,4 @@
-Netflix's Personalization Algorithms
-==================================================================================
+
 
 Netflix is one of the most successful streaming services in the world, and AI has played a significant role in their success. In this chapter, we will explore a case study of AI in advertising, specifically focusing on Netflix's personalization algorithms.
 

@@ -1,5 +1,4 @@
-Personalization and Targeted Advertising
-===============================================================================================
+
 
 Artificial intelligence (AI) is transforming the advertising industry, enabling new and more sophisticated forms of personalization and targeted advertising. In this chapter, we will explore the creative applications of AI in advertising, specifically focusing on personalization and targeted advertising.
 

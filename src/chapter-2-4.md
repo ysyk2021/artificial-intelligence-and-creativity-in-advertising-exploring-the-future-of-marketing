@@ -1,5 +1,4 @@
-Computer Vision Applications in Advertising
-========================================================================================
+
 
 Artificial intelligence (AI) is transforming the advertising industry, and computer vision is one of the key areas where AI is having a significant impact. In this chapter, we will explore the foundations of AI in advertising, specifically focusing on computer vision applications in advertising.
 

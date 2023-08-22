@@ -1,5 +1,4 @@
-Public Perception and Acceptance of AI Advertising
-===================================================================================================================
+
 
 As Artificial Intelligence (AI) becomes more prevalent in advertising, there are growing concerns about the ethical and social implications of its use. In this chapter, we will explore the public perception and acceptance of AI in advertising, and the ethical and social implications that must be considered.
 

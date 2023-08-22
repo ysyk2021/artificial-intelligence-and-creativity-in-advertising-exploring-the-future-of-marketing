@@ -1,5 +1,4 @@
-Google's Smart Bidding System
-===========================================================================
+
 
 In this chapter, we will explore the case study of Google's Smart Bidding system, which is an AI-powered solution for optimizing bids in Google Ads. This system uses machine learning algorithms to analyze various signals and make real-time bidding decisions, resulting in better performance and cost savings for advertisers.
 

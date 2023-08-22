@@ -1,5 +1,4 @@
-IBM Watson's Creative Advertising Applications
-============================================================================================
+
 
 In this chapter, we will explore case studies of AI in advertising, focusing on IBM Watson's creative advertising applications.
 

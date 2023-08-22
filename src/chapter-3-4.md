@@ -1,5 +1,4 @@
-Augmented Reality and Virtual Reality Advertising
-========================================================================================================
+
 
 In this chapter, we will explore the creative applications of AI in advertising, specifically focusing on the use of augmented reality (AR) and virtual reality (VR) in advertising campaigns.
 

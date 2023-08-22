@@ -1,5 +1,4 @@
-Overview of AI Techniques in Advertising
-=====================================================================================
+
 
 Artificial intelligence (AI) is reshaping the advertising industry, revolutionizing the way companies target and engage with customers. AI technologies are being used to analyze customer data, automate ad creation, and deliver personalized content to users. In this chapter, we will provide an overview of the different AI techniques used in advertising.
 
