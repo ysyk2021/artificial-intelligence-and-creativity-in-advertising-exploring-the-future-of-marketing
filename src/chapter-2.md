@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is rapidly transforming the advertising industry, enabling brands to deliver more personalized and engaging ad experiences to their audiences. In this chapter, we will explore the foundations of AI in advertising.
 
 Overview of AI Techniques in Advertising

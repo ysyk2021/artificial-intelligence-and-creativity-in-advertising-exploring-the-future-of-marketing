@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the ethical and social implications of using AI in advertising, specifically focusing on data privacy and security concerns.
 
 Background

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the advertising industry, enabling new and more sophisticated forms of content creation and curation. In this chapter, we will explore the creative applications of AI in advertising, specifically focusing on content creation and curation.
 
 Content Creation with AI

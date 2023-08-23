@@ -1,5 +1,4 @@
 
-
 Advertising and marketing have undergone significant changes over the years, driven by advances in technology and changes in consumer behavior. In recent years, the rise of artificial intelligence (AI) has revolutionized the advertising industry, enabling companies to analyze vast amounts of data and deliver personalized content to users. In this chapter, we will explore the evolution of advertising and marketing leading up to the current AI-driven era.
 
 The Early Days of Advertising

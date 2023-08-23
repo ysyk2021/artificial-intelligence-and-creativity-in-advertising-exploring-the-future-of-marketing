@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) becomes increasingly prevalent in the advertising industry, it raises a number of ethical and social concerns. In this chapter, we will explore some of these concerns and discuss how advertisers can address them.
 
 Data Privacy and Security Concerns

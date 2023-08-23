@@ -1,5 +1,4 @@
 
-
 As AI technologies continue to evolve, their impact on the advertising industry and society as a whole is becoming increasingly significant. In this chapter, we will explore some of the potential implications of AI in advertising, including the ways that it may transform the industry and its impact on society.
 
 Increased Efficiency and Effectiveness

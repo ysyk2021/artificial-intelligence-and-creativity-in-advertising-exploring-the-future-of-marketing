@@ -1,5 +1,4 @@
 
-
 In recent years, the advertising industry has seen a significant shift towards the use of data and analytics to inform ad campaign decision-making. The rise of Artificial Intelligence (AI) has further accelerated this trend, with AI-powered predictive analytics tools enabling advertisers to optimize their ad campaigns for greater efficiency and effectiveness.
 
 What is Predictive Analytics?

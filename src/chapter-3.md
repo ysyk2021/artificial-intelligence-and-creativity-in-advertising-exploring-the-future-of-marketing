@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the advertising industry, and brands are using AI-powered tools and technologies to drive better results and reach their target audiences more effectively. In this chapter, we will explore some of the most creative applications of AI in advertising.
 
 Personalization and Targeted Advertising

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is rapidly transforming the advertising industry, and the future looks even more exciting with the emergence of new technologies and trends. In this chapter, we will explore what the future holds for AI in advertising.
 
 Emerging Technologies and Trends

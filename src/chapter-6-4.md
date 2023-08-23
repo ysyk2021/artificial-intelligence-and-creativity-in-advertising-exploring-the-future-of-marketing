@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore Coca-Cola's use of AI-powered vending machines as a case study of how AI can be used in advertising to create unique and personalized experiences for consumers.
 
 Background
