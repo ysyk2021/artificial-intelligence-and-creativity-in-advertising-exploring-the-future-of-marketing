@@ -10,3 +10,7 @@ Throughout this book, we will highlight examples of companies and individuals wh
 Whether you are a marketer, advertiser, or simply interested in the field of AI and its potential to transform the advertising industry, this book will provide valuable insights and inspiration. So let's dive in and explore the future of marketing and advertising with artificial intelligence and creativity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
